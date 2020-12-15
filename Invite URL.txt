@@ -1,0 +1,5 @@
+█▀█ █▄█ ▀█▀
+
+https://discord.com/api/oauth2/authorize?client_id=782315635316490260&permissions=8&scope=bot
+
+TOKEN = 'NzgyMzE1NjM1MzE2NDkwMjYw.X8KaNg.PHoknQtRhE6aw3dybOj0xhIidYM'
